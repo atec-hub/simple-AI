@@ -1,0 +1,32 @@
+#
+data={
+    'fiil_kok':[
+        'al','as','at',
+        'bak','besle','bil','bin','boz','bul',
+        'cal',
+        'dok','don','dur','duy',
+        'in','it',
+        'gel','gir','git','gor','gul',
+        'kal','kay','kaz','kes','kus','koy','kur',
+        'oku','ol','or','oy',
+        'sal','san','sar','sat','say','ser','sev','sil','sok','sor','soy',
+        'tak','tat','tut',
+        'uc','uy',
+        'ver','vur',
+        'yak','yar','yap','yaz','yor','yut','yuz'
+    ],
+    'soru':[
+        'ne','nedir','neden','nicin','kim','kimsin','kimdir','kime','kimler','nezaman','neresi','nerede','nerde','hangisi'
+    ],
+    'sayi':[
+        'sifir','bir','iki','uc','dort','bes','alti','yedi','sekiz','dokuz','on','yuz','bin','milyon','milyar'
+    ],
+    'zaman':[
+        'simdi','sonra','once','bugun','yarin','dun'
+    ],
+    'scop1':['ad','soyad','yas','cins','es','cocuk','ulke','sehir','meslek','hobi'],
+    'scop2':['kim','kimi','kime','ne','neyi','nasil','nerede','nezaman','neden','nekadar'],
+    'scop3':['fiil'],
+    'indk1':['soru','son']
+}
+#
